@@ -1,0 +1,9 @@
+.DS_Store
+
+env/
+
+data/*
+data.7z
+!data/dir.txt
+
+model.pkl
